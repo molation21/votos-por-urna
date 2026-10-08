@@ -1,0 +1,6 @@
+# arquivos grandes baixados do TSE e cache do script
+dados/
+*.zip
+*.pkl
+__pycache__/
+.DS_Store
